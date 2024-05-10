@@ -1,1 +1,1 @@
-1.0
+dependabot_npm_and_yarn_site_next-14.1.1
