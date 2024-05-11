@@ -6,11 +6,14 @@
   <br>
 </h1>
 
+> [!IMPORTANT]
+> Due to deployment issues this repository has been archived, A newer version of this repository is available at <https://github.com/kbdharun/kasm-workspaces-registry>.
+
 This repository contains the Kasm Workspaces Registry indexing my [custom images](https://github.com/kbdharun/kasm-images) for development and miscellaneous things.
 
 ## Features
 
-Ready to use images for development with popular programming languages and tools preinstalled.
+Ready-to-use images for development with popular programming languages and tools preinstalled.
 
 ---
 
